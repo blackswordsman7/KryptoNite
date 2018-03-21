@@ -17,7 +17,8 @@ Business network definition (BND)- It defines the data model, transaction logic 
 4. Select `org.acme.biznet` as the namespace.
 
 ## Step Two: Defining a business network
-       A business network is made up of assets, participants, transactions, access control rules, and optionally events and queries. In the skeleton business network created in the previous steps, there is a model (.cto) file which will contain the class definitions for all assets, participants, and transactions in the business network. The skeleton business network also contains an access control (permissions.acl) document with basic access control rules, a script (logic.js) file containing transaction processor functions, and a package.json file containing business network metadata.
+
+A business network is made up of assets, participants, transactions, access control rules, and optionally events and queries. In the skeleton business network created in the previous steps, there is a model (.cto) file which will contain the class definitions for all assets, participants, and transactions in the business network. The skeleton business network also contains an access control (permissions.acl) document with basic access control rules, a script (logic.js) file containing transaction processor functions, and a package.json file containing business network metadata.
 Modelling assets, participants, and transactions
 
 The first document to update is the model (.cto) file. This file is written using the Hyperledger Composer Modelling Language. The model file contains the definitions of each class of asset, transaction, participant, and event. It implicitly extends the Hyperledger Composer System Model described in the modelling language documentation.
@@ -104,7 +105,7 @@ Adding access control
 
     Save your changes to permissions.acl.
 
-Step Three: Generate a business network archive
+### Step Three: Generate a business network archive
 
 Now that the business network has been defined, it must be packaged into a deployable business network archive (.bna) file.
 
@@ -155,7 +156,7 @@ Deploying a business network to the Hyperledger Fabric requires the Hyperledger 
     composer network ping --card admin@tutorial-network
 
 The composer network ping command requires a business network card to identify the network to ping.
-Step Five: Generating a REST server
+### Step Five: Generating a REST server
 
 Hyperledger Composer can generate a bespoke REST API based on a business network. For developing a web application, the REST API provides a useful layer of language-neutral abstraction.
 
