@@ -3,11 +3,13 @@
 
 # Team Name: KryptoNite
 
-# Property Management System using Hyperledger Fabic.
+## Property Management System using Hyperledger Fabic
 
-## Idea at Glance:
+### Idea at Glance:
 
 Our aim is to provide a Hyperledger Fabric based model which will give government full control and moneterization of all the land in India. This Platform will rule out corruption by Middle Men, and will assist government recover all the black money invested in Properties ( Benami Property).
+
+![Model]( https://github.com/thesachinmittal/KryptoNite/blob/master/docs/KryptoNite.jpg )
 
 
 ### Video Link for Live Demo of property management system, based on Hyperledger fabric:
