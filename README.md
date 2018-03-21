@@ -12,5 +12,7 @@ Our aim is to provide a Hyperledger Fabric based model which will give governmen
 ![Model]( https://github.com/thesachinmittal/KryptoNite/blob/master/docs/KryptoNite.jpg )
 
 
-### Video Link for Live Demo of property management system, based on Hyperledger fabric:
-   [Click Here](https://drive.google.com/open?id=1-wevFrXEx9nrdYCW5B7IESnmRbYoP_9t)
+
+### Video Link for Live Demo of property management system: [Click Here](https://drive.google.com/open?id=1-wevFrXEx9nrdYCW5B7IESnmRbYoP_9t)
+
+### Power Point Link : [Click Here](https://drive.google.com/open?id=1RfO6KerPMuwiI4pzAqCySgaxDHyCRiki)
