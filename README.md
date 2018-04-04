@@ -1,7 +1,7 @@
 
 # KryptoNite
 
-## Property Management System using Hyperledger Fabic
+## Property Management System using Hyperledger Fabric
 
 ### Idea at Glance:
 
