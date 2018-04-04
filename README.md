@@ -36,7 +36,7 @@ Current system is except if either Seller/Buyer is a bad partipant.
 ### Power Point Link : [Click Here](https://drive.google.com/open?id=1RfO6KerPMuwiI4pzAqCySgaxDHyCRiki)
 
 
-### Team Members
+### Contributors
 * [Sachin Mittal](https://github.com/thesachinmittal)
 * [Sanchay Mittal](https://github.com/sanchaymittal)
 * [Susmit Lavania](https://github.com/phunsukwangdu)
