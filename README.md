@@ -5,7 +5,7 @@
 
 ### Idea at Glance:
 
-Our aim is to provide a Hyperledger Fabric based model which will give government full control and moneterization of all the land in India. This Platform will rule out corruption by Middle Men, and will assist government recover all the black money invested in Properties ( Benami Property).
+Our aim is to provide a Hyperledger Fabric based model which will give government full control and monetization of all the land in India. This Platform will rule out corruption by Middle Men, and will assist government recover all the black money invested in Properties ( Benami Property).
 
 ![Model]( https://github.com/thesachinmittal/KryptoNite/blob/master/docs/KryptoNite.jpg )
 
