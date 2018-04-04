@@ -1,7 +1,5 @@
 
-# Rajasthan Hackathon 4.0
-
-## Team Name: KryptoNite
+# KryptoNite
 
 ## Property Management System using Hyperledger Fabic
 
